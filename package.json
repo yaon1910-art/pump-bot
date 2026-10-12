@@ -1,0 +1,7 @@
+{
+  "name": "pump-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "ws": "^8.18.0", "dotenv": "^16.4.5" }
+}
